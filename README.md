@@ -1,2 +1,2 @@
 # Grammer-Solver
-Code To Generate Random Sentences
+Parses BNF grammar from a given text file before using recursion to generate random sentences.
