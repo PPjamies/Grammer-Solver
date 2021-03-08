@@ -1,9 +1,7 @@
 //CS211 Chapter12_Project03
 //This class randomly generates sentences given BNF grammar file
 //Reference: Blake Denniston -his code gave reference to my generatePhrase method.
-//FUN FACT: his code didn't work.
-//However, I really liked the structure of his code as it was easier to follow than mine and so, I fixed it up.
-//Nonetheless, I feel like I indirectly worked with Mr.Blakey and want to give him credit. 
+//I really liked the structure of his code as it was easier to follow than mine and so, I fixed it up.
 
 package Projects;
 import java.util.*;
